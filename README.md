@@ -1,4 +1,4 @@
-- 👋 Hola, Soy Jorge Baltodano mi usuario @jorgebaltodanoqdev
+- 👋 Hola, Soy Jorge Baltodano mi usuario @memo.coders
 - 👀 Me interesa el desarrollo web (frontend y backend), pero sobretodo el mundo de la  tecnologia 
 - 🌱 Actualmente estoy aprendiendo rect.js para especializarme mas el la web.
 - 💞️ Estoy pensando colaborar en un proyecto de una plataforma digital (bueno les cuento luego)
